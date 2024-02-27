@@ -1,12 +1,12 @@
-# Git Hub Flavoured Markdown
+### Git Hub Flavoured Markdown
 
-## External Link [x]
+- External Link [x]
 
-## Internal Link [ ]
+- Internal Link [ ]
 
-## Images [ ]
+- Images [ ]
 
-## Emojis [ ]
+- Emojis [ ]
 
 
 ## Tables
@@ -16,8 +16,8 @@
 
 ## [https://github.com/FabriceMru/authoring/blob/main/pexels-efrem-efre-20002893.jpg?raw=true]
 
-## [:)]
-
+ [:)]
+ (:))
 
 ## (External Link)
 
