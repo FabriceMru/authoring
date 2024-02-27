@@ -1,4 +1,6 @@
-# **Git Hub Flavoured Markdown**
+#**Git Hub Flavoured Markdown**
+
+##Task
 
 - [ ] External Link
 
@@ -25,14 +27,6 @@
 ## Visit
 [https://help.github.com/en]
 
-[go to External Heading section] (#external-link)
+##EMOJI 🤪
 
-#EMOJI 🤪
 
-#image-folder
-
-#image-link
-
-#visit
-
-#emoji
