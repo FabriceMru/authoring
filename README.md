@@ -13,7 +13,7 @@
 
 | NAME    | CLASS  |
 | ------- | -----  |
-| ....    | .....  | 
+| Eminem  | WD-E01 | 
 | Fabrice | WD-E02 |
 
 
