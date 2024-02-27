@@ -1,20 +1,21 @@
 # **Git Hub Flavoured Markdown**
 
-- External Link [x]
+- [ ] External Link
 
-- Internal Link [ ]
+- [ ] Internal Link
 
-- Images [ ]
+- [ ] Images
 
-- Emojis [ ]
+- [ ] Emojis
 
 
 ### Tables
 
-| NAME | CLASS |
-| ---- | ----- |
-| .... | ..... | 
-| text | words |
+| NAME    | CLASS  |
+| ....    | .....  |
+| ....    | .....  | 
+| Fabrice | WD-E02 |
+
 
 ## Image Folder Link: [https://github.com/FabriceMru/authoring/blob/main/pexels-efrem-efre-20002893.jpg?raw=true]
 ## Link GitHub dcoumentation: [https://help.github.com/en]
