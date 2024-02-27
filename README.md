@@ -9,7 +9,7 @@
 - [ ] Emojis
 
 
-### Tables
+# Tables
 
 |** NAME**    |**CLASS**  |
 | ------- | -----  |
@@ -25,8 +25,9 @@
 ## Visit
 [https://help.github.com/en]
 
-## EMOJI
-[🤪]
+[external link] (#external-link)
+
+#EMOJI 🤪
 
 #image-folder
 
@@ -35,5 +36,3 @@
 #visit
 
 #emoji
-
-
