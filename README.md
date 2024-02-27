@@ -25,7 +25,7 @@
 ## Visit
 [https://help.github.com/en]
 
-[external link] (#external-link)
+[go to External Heading section] (#external-link)
 
 #EMOJI 🤪
 
