@@ -2,22 +2,25 @@
 
 ## Checkboxes
 
-- [ ] External Link
-- [ ] Internal Link
-- [ ] Images
-- [ ] Emojis
-- [ ] Tables
+- [X] [External Link](#external-link)
+- [X] [Internal Link](#internal-link)
+- [X] [Images](#Images)
+- [X] [Emojis](#Emojis)
+- [X] [Tables](#Tables)
 
 You can find github documentation [here](https://help.github.com/en)
 
-![githug-logo](/image/"/pic01.jpg)
+![githug-logo](/images/"/pic01.jpg)
 
-# Tables
+## EMOJI 
+🤪
 
-|** NAME**    |**CLASS**  |
-| ------- | -----  |
-| Eminem  | WD-E01 | 
-| Fabrice | WD-E02 |
+## Tables
+
+|** NAME**|**CLASS**|
+| ------- | ------- |
+| Eminem  | WD-E01  | 
+| Fabrice | WD-E02  |
 
 ## Image Folder
 [https://github.com/FabriceMru/authoring/tree/d6b3e1c48841192fdabdf8ca0dec18251eac7eb6/images]
@@ -28,6 +31,6 @@ You can find github documentation [here](https://help.github.com/en)
 ## Visit
 [https://help.github.com/en]
 
-## EMOJI 🤪
+
 
 
